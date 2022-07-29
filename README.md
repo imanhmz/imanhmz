@@ -37,4 +37,4 @@
 
 <a href="https://www.linkedin.com/in/imanhmz/"><img src="https://img.shields.io/badge/-Iman Hajimostafazadeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://iman.dev"><img src="https://img.shields.io/badge/-iman.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:iman.mostafazadeh@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:iman.mostafazadeh@gmail.com"><img src="https://img.shields.io/badge/-iman.mostafazadeh@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
