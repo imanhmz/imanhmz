@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://github.com/imanhmz">
   <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imanhmz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imanhmz&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html,scss"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imanhmz&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html"/>
 </a>
 </p>
 
